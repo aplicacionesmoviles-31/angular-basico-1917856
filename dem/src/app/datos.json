@@ -1,0 +1,38 @@
+{
+    "publicaciones": [
+        {
+            "usuario": "@Carlos_01",
+            "imagen": "../assets/img/carne.jpg",
+            "caption": "Asando Carne",
+            "comentario": "",
+            "id" : "1"
+          },
+          {
+            "usuario": "@HelloWorld",
+            "imagen": "../assets/img/guadalajara.jpg",
+            "caption": "Viaje a GDL",
+            "comentario": "",
+            "id" : "2"
+          },
+          {
+            "usuario": "@EchoVoices",
+            "imagen": "../assets/img/keanu.jpg", 
+            "caption": "Encontre a Keanu Reeves!!",
+            "comentario": "",
+            "id" : "3"
+          }
+    ],
+    "usuario" : {
+      "nombre":"Luis",
+      "alias": "zellendust",
+      "fotoPerfil": "../assets/img/luis.jpeg",
+      "seguidores": 334,
+      "seguidos": 155,
+      "bio": "feliz pero no mucho", 
+      "publicaciones": [
+        "../assets/img/publi1.jpeg",
+        "../assets/img/publi2.jpg",
+        "../assets/img/publi3.jpg"
+      ]
+    }
+}
